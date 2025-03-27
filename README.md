@@ -1,7 +1,7 @@
 - 👋 Hi, I’m haridevadharshini
 - 👀 I’m interested in learning techonology development
 - 🌱 I’m currently learning b.tech information technology
-- 💞️ I’m looking to collaborate on full stack projects.
+- 💞️ I’m looking to collaborate on cybersecurity projects.
 - 📫 Reach me through email at haridevadharshini311@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i like frogs
