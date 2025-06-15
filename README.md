@@ -1,12 +1,27 @@
-- 👋 Hi, I’m haridevadharshini
-- 👀 I’m interested in learning techonology development
-- 🌱 I’m currently learning b.tech information technology
-- 💞️ I’m looking to collaborate on cybersecurity projects.
-- 📫 Reach me through email at haridevadharshini311@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i like frogs
+# 👋 Hey, I’m Hari Devadharshini
 
-<!---
-haridevadharshini/haridevadharshini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm learning my way through **cybersecurity** and **web development**, with a growing interest in **Python**.
+
+Right now, I'm:
+- 🛠 Practicing ethical hacking and CTFs
+- 🌐 Building simple websites and learning frontend/backend basics
+- 🐍 Writing Python scripts to automate small tasks and understand core concepts
+
+### 🧠 Skills in Progress
+- Python
+- HTML, CSS, JavaScript
+- Linux, Git
+- Cybersecurity fundamentals
+
+### 🗂 What You’ll Find Here
+- Web projects and experiments
+- Python practice scripts
+- Notes and tools related to cybersecurity
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](www.linkedin.com/in/haridevadharshini3)
+
+---
+
+Always learning. Always building.
+
