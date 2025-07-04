@@ -15,7 +15,8 @@ Coding might not be my favorite yet, but I’m committed to developing the skill
 ---
 
 - 🌍 I'm based in Chennai, India  
-- ✉️ You can contact me at [haridevadharshini311@gmail.com](mailto:haridevadharshini311@gmail.com)  
+- ✉️ You can contact me at [haridevadharshini311@gmail.com](mailto:haridevadharshini311@gmail.com)
+- 🌺 Visit my portfolio [hariportfolio](https://portfolio-db844.web.app)
 - 🧠 I'm learning SIEM Tools and Other Essential Security Tools  
 
 ---
